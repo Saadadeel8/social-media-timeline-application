@@ -1,6 +1,6 @@
 import endpoints from './api-end-points';
 
-const token = '8U7dPDoiozxF26WNLAdJdo2S9KN7wwg58Dub0v9D';
+const token = '<---ADD BEARER TOKEN--->';
 
 // eslint-disable-next-line consistent-return
 export const fetchTimelineData = async (page) => {
